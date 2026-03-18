@@ -1,30 +1,34 @@
-# 📖 Chyoa Story Downloader (Android)
+# Chyoa Story Downloader (Android)
 
 An Android application that allows you to download CHYOA stories directly to your device in multiple formats.
 
-This app is inspired by the original CHYOA Story Downloader tool [1] and brings its core functionality into a native Android experience.
+---
+
+## Features
+
+- Download CHYOA stories by pasting the **last chapter URL**
+- Supported formats:
+  - **HTML** (preserves structure and formatting)
+  - **TXT** (plain text version) 
+  - **MP3** (Text-to-Speech audio) 
+- Story preview before download
+- Optional **Table of Contents** [1]
+- Automatic filename generation
+- Live chapter fetching progress
+- Proxy-based scraping logic (aligned with original tool) [1]
+- Open file automatically after download
 
 ---
 
-## ✨ Features
+---
 
-- ✅ Download CHYOA stories by pasting the **last chapter URL**
-- ✅ Supported formats:
-  - **HTML** (preserves structure and formatting) [1]
-  - **TXT** (plain text version) [1]
-  - **MP3** (Text-to-Speech audio) [1]
-- ✅ Story preview before download [1]
-- ✅ Optional **Table of Contents** [1]
-- ✅ Automatic filename generation
-- ✅ Live chapter fetching progress
-- ✅ Proxy-based scraping logic (aligned with original tool) [1]
-- ✅ Open file automatically after download
-- ✅ Dark themed UI
-- ✅ Adaptive book launcher icon
+## Screenshots
+
+*(Add screenshots here)*
 
 ---
 
-## 📥 How It Works
+## How It Works
 
 1. Paste the URL of the **last chapter** of a CHYOA story.
 2. Tap **Load Story**.
@@ -36,7 +40,7 @@ This app is inspired by the original CHYOA Story Downloader tool [1] and brings 
 
 ---
 
-## 📂 Supported Formats
+## Supported Formats
 
 | Format | Description |
 |--------|------------|
@@ -46,16 +50,49 @@ This app is inspired by the original CHYOA Story Downloader tool [1] and brings 
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 You can choose whether to include a **Table of Contents**:
 
-- ✅ Include — Adds clickable chapter navigation (HTML)
-- ✅ Include — Adds numbered list (TXT)
-- ✅ Include — Adds spoken chapter list (MP3)
+- Adds clickable chapter navigation (HTML)
+- Adds numbered list (TXT)
+- Adds spoken chapter list (MP3)
 
 ---
 
 ## 📦 File Naming
 
 If the filename field is left blank:
+FirstChapterTitle-LastChapterTitle
+
+---
+
+## 🔄 Scraping Logic
+
+The scraper:
+
+- Fetches chapters in reverse order
+- Uses proxy-based requests (like original implementation) [1]
+- Validates chapter structure
+- Avoids infinite loops
+- Emits live progress updates
+
+---
+
+## 📱 Tech Stack
+
+- Kotlin
+- Jetpack Compose
+- Material 3 (Dark Theme)
+- Jsoup (HTML parsing)
+- OkHttp (HTTP client)
+- Android TextToSpeech API
+- FileProvider (secure file opening)
+
+
+## ⚠️ Disclaimer
+
+This tool is intended for personal use.  
+Respect CHYOA's terms of service and content guidelines.
+
+---
