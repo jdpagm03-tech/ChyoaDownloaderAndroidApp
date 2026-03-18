@@ -30,7 +30,7 @@ An Android 8.0 application that allows you to download CHYOA stories directly to
 
 1. Paste the URL of the **last chapter** of a CHYOA story.
 2. Tap **Load Story**.
-3. The app fetches chapters backwards (like the original scraper logic).
+3. The app fetches chapters backwards.
 4. Preview the Table of Contents.
 5. Choose your preferred format.
 6. Tap **Download**.
