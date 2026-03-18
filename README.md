@@ -12,10 +12,10 @@ An Android application that allows you to download CHYOA stories directly to you
   - **TXT** (plain text version) 
   - **MP3** (Text-to-Speech audio) 
 - Story preview before download
-- Optional **Table of Contents** [1]
+- Optional **Table of Contents**
 - Automatic filename generation
 - Live chapter fetching progress
-- Proxy-based scraping logic (aligned with original tool) [1]
+- Proxy-based scraping logic
 - Open file automatically after download
 
 ---
