@@ -58,7 +58,7 @@ You can choose whether to include a **Table of Contents**:
 
 ---
 
-## 📦 File Naming
+## File Naming
 
 If the filename field is left blank:
 FirstChapterTitle-LastChapterTitle
