@@ -70,7 +70,7 @@ FirstChapterTitle-LastChapterTitle
 The scraper:
 
 - Fetches chapters in reverse order
-- Uses proxy-based requests (like original implementation) [1]
+- Uses proxy-based requests
 - Validates chapter structure
 - Avoids infinite loops
 - Emits live progress updates
