@@ -22,7 +22,7 @@ An Android 8.0 application that allows you to download CHYOA stories directly to
 
 ## Screenshots
 
-![Project Screenshot](screenshot.png)
+![Demo GIF](app.gif)
 
 ---
 
