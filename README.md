@@ -1,6 +1,6 @@
 # Chyoa Story Downloader (Android)
 
-An Android application that allows you to download CHYOA stories directly to your device in multiple formats.
+An Android 8.0 application that allows you to download CHYOA stories directly to your device in multiple formats.
 
 ---
 
