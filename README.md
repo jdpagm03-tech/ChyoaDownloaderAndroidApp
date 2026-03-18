@@ -20,8 +20,6 @@ An Android application that allows you to download CHYOA stories directly to you
 
 ---
 
----
-
 ## Screenshots
 
 *(Add screenshots here)*
