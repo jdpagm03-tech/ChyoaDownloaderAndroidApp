@@ -67,7 +67,7 @@ FirstChapterTitle-LastChapterTitle
 
 ---
 
-## 🔄 Scraping Logic
+## Scraping Logic
 
 The scraper:
 
@@ -79,7 +79,7 @@ The scraper:
 
 ---
 
-## 📱 Tech Stack
+## Tech Stack
 
 - Kotlin
 - Jetpack Compose
@@ -89,6 +89,7 @@ The scraper:
 - Android TextToSpeech API
 - FileProvider (secure file opening)
 
+---
 
 ## ⚠️ Disclaimer
 
