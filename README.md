@@ -4,6 +4,15 @@ An Android 8.0 application that allows you to download CHYOA stories directly to
 It now has a build in browser as well.
 ---
 
+
+
+---
+
+## Video
+
+https://github.com/user-attachments/assets/abe371d9-4dfd-4f55-90a3-44424459a862
+
+---
 ## Features
 
 - Download CHYOA stories by pasting the **last chapter URL**
@@ -29,14 +38,6 @@ It now has a build in browser as well.
   - Sends current chapter URL directly to downloader
   - Auto-fills URL field
   - Switches back to download screen
-
----
-
-## Video
-
-https://github.com/user-attachments/assets/abe371d9-4dfd-4f55-90a3-44424459a862
-
----
 
 ## How It Works
 **Option 1 — Direct Download**
