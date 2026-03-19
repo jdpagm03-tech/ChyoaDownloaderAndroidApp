@@ -34,7 +34,8 @@ It now has a build in browser as well.
 
 ## Screenshots
 
-![Demo VID](vid.mp4)
+![Demo VID](https://github.com/user-attachments/assets/fd16f496-0f46-4de2-a66a-40d8d9307ca4)
+
 
 ---
 
