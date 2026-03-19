@@ -1,7 +1,7 @@
 # Chyoa Story Downloader (Android)
 
-An Android 8.0 application that allows you to download CHYOA stories directly to your device in multiple formats.
-
+An Android 8.0 application that allows you to download CHYOA stories directly to your device in multiple formats. 
+It now has a build in browser as well.
 ---
 
 ## Features
@@ -17,6 +17,18 @@ An Android 8.0 application that allows you to download CHYOA stories directly to
 - Live chapter fetching progress
 - Proxy-based scraping logic
 - Open file automatically after download
+
+###Built‑in CHYOA Browser
+
+- Full interactive WebView browser for chyoa.com
+- JavaScript enabled
+- Login supported
+- Proper back navigation
+- Respects status bar, notification bar & camera cutouts
+- Floating overlay button:
+  - Sends current chapter URL directly to downloader
+  - Auto-fills URL field
+  - Switches back to download screen
 
 ---
 
