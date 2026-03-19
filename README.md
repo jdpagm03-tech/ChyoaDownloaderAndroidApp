@@ -32,10 +32,9 @@ It now has a build in browser as well.
 
 ---
 
-## Screenshots
+## Video
 
-https://github.com/user-attachments/assets/fd16f496-0f46-4de2-a66a-40d8d9307ca4
-
+https://github.com/user-attachments/assets/abe371d9-4dfd-4f55-90a3-44424459a862
 
 ---
 
