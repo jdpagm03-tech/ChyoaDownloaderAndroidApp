@@ -18,7 +18,7 @@ It now has a build in browser as well.
 - Proxy-based scraping logic
 - Open file automatically after download
 
-###Built‑in CHYOA Browser
+### Built‑in CHYOA Browser
 
 - Full interactive WebView browser for chyoa.com
 - JavaScript enabled
