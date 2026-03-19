@@ -34,7 +34,7 @@ It now has a build in browser as well.
 
 ## Screenshots
 
-![Demo GIF](app.gif)
+![Demo VID](vid.mp4)
 
 ---
 
