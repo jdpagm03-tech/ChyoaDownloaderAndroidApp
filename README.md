@@ -98,21 +98,42 @@ The scraper:
 
 ---
 
-## Tech Stack
-
-- Kotlin
+## Architecture Overview
+**UI Layer**
 - Jetpack Compose
-- Material 3 (Dark Theme)
-- Jsoup (HTML parsing)
+- Material 3 Design
+
+**Network & Parsing**
 - OkHttp (HTTP client)
-- Android TextToSpeech API
-- FileProvider (secure file opening)
+- Jsoup (HTML parsing)
+- Proxy-based fetch logic
+
+**Export**
+- HTML builder with anchor navigation
+- TXT generator with numbering
+- Android TextToSpeech → MP3 synthesis
+- FileProvider for secure file access
+
+**Browser Integration**
+- Android WebView
+- Proper system inset handling
+- Modern back navigation support
+- Floating overlay communication with MainActivity
 
 ---
 
 ## ⚠️ Disclaimer
 
-This tool is intended for personal use.  
-Respect CHYOA's terms of service and content guidelines.
+This tool is intended for personal use only.
+Please respect CHYOA’s:
+- Terms of Service
+- Content Guidelines
+- Copyright policies
+
+---
+
+## Requirements
+- Android 8.0 (API 26) or higher
+- Internet connection
 
 ---
