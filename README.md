@@ -39,7 +39,7 @@ It now has a build in browser as well.
 ---
 
 ## How It Works
-
+** Option 1 — Direct Download **
 1. Paste the URL of the **last chapter** of a CHYOA story.
 2. Tap **Load Story**.
 3. The app fetches chapters backwards.
@@ -48,6 +48,15 @@ It now has a build in browser as well.
 6. Tap **Download**.
 7. The file opens automatically after saving.
 
+** Option 2 — Use Built‑in Browser **
+
+1. Tap Open CHYOA Browser.
+2. Navigate normally on chyoa.com.
+3. Open the chapter you want.
+4. Tap the floating send button (bottom-right).
+5. The app switches to the downloader.
+6. URL is auto-filled.
+7. Load & download.
 ---
 
 ## Supported Formats
